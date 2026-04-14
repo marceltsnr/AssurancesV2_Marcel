@@ -1,0 +1,8 @@
+C:\Users\Marce\OneDrive\Desktop\Ecole\5TTI (2025-2026)\info\UAA11\AssurancesV2\bin\Debug\net8.0\AssurancesV2.exe
+C:\Users\Marce\OneDrive\Desktop\Ecole\5TTI (2025-2026)\info\UAA11\AssurancesV2\obj\Debug\net8.0\AssurancesV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marce\OneDrive\Desktop\Ecole\5TTI (2025-2026)\info\UAA11\AssurancesV2\obj\Debug\net8.0\AssurancesV2.AssemblyInfoInputs.cache
+C:\Users\Marce\OneDrive\Desktop\Ecole\5TTI (2025-2026)\info\UAA11\AssurancesV2\obj\Debug\net8.0\AssurancesV2.AssemblyInfo.cs
+C:\Users\Marce\OneDrive\Desktop\Ecole\5TTI (2025-2026)\info\UAA11\AssurancesV2\obj\Debug\net8.0\AssurancesV2.csproj.CoreCompileInputs.cache
+C:\Users\Marce\OneDrive\Desktop\Ecole\5TTI (2025-2026)\info\UAA11\AssurancesV2\obj\Debug\net8.0\AssurancesV2.dll
+C:\Users\Marce\OneDrive\Desktop\Ecole\5TTI (2025-2026)\info\UAA11\AssurancesV2\obj\Debug\net8.0\refint\AssurancesV2.dll
+C:\Users\Marce\OneDrive\Desktop\Ecole\5TTI (2025-2026)\info\UAA11\AssurancesV2\obj\Debug\net8.0\AssurancesV2.pdb
